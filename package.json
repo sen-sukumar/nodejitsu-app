@@ -1,5 +1,5 @@
 {
-  "name": "WebServer",
+  "name": "NodejitsuApp",
   "subdomain": "webserver.sukumar",
   "scripts": {
     "start": "app.js"
